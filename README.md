@@ -21,6 +21,7 @@ npm install express
 
 # 3. Start the backend server
 node patients.js
+
 Make sure the backend runs on a port (e.g., http://localhost:5000) that the frontend can access.
 
 🌐 Frontend (React + Vite)
@@ -33,4 +34,5 @@ npm install
 
 # 3. Start the development server
 npm run dev
+
 The frontend will typically be available at http://localhost:5173 or as shown in your terminal.
