@@ -70,8 +70,8 @@
 
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import hospitalLogo from 'C:/TripleM-main-20240227T115539Z-001/TripleM-main/client/src/assets/signify_health.jpg';
-import backgroundImg from 'C:/TripleM-main-20240227T115539Z-001/TripleM-main/client/src/assets/background.jpg'; 
+import hospitalLogo from 'C:/Hospital_Management_System/TripleM-main/client/src/assets/signify_health.jpg';
+import backgroundImg from 'C:/Hospital_Management_System/TripleM-main/client/src/assets/background.jpg'; 
 // Adjust the path accordingly
 
 const LoginForm = () => {

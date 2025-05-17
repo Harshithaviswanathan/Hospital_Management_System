@@ -170,12 +170,12 @@
 
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import patient from 'C:/TripleM-main-20240227T115539Z-001/TripleM-main/client/src/assets/patient.jpg';
-import doctor from 'C:/TripleM-main-20240227T115539Z-001/TripleM-main/client/src/assets/doctor.jfif';
-import admin from 'D:/OneDrive/TripleM-main-20240227T115539Z-001/TripleM-main/client/src/assets/admin.jpg';
-import invoice from 'C:/TripleM-main-20240227T115539Z-001/TripleM-main/client/src/assets/invoice.jpg';
-import hospitalLogo from 'C:/TripleM-main-20240227T115539Z-001/TripleM-main/client/src/assets/signify_health.jpg';
-import backgroundImg from 'C:/TripleM-main-20240227T115539Z-001/TripleM-main/client/src/assets/background.jpg'; 
+import patient from 'C:/Hospital_Management_System/TripleM-main/client/src/assets/patient.jpg';
+import doctor from 'C:/Hospital_Management_System/TripleM-main/client/src/assets/doctor.jfif';
+import admin from 'C:/Hospital_Management_System/TripleM-main/client/src/assets/admin.jpg';
+import invoice from 'C:/Hospital_Management_System/TripleM-main/client/src/assets/invoice.jpg';
+import hospitalLogo from 'C:/Hospital_Management_System/TripleM-main/client/src/assets/signify_health.jpg';
+import backgroundImg from 'C:/Hospital_Management_System/TripleM-main/client/src/assets/background.jpg'; 
 const Dashboard = () => {
   const navigate = useNavigate();
 
