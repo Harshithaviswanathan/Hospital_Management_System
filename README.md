@@ -12,19 +12,25 @@ TripleM is a full-stack Hospital Management System that provides features for ma
 
 🛠️ How to Run the Project
 📦 Backend (Express + Node.js)
-Open a terminal and navigate to the backend folder:
+
+# 1. Navigate to the backend directory
 cd TripleM-main/backend
-Install required packages:
+
+# 2. Install dependencies
 npm install express
-Run the backend server:
+
+# 3. Start the backend server
 node patients.js
 Make sure the backend runs on a port (e.g., http://localhost:5000) that the frontend can access.
 
-🌐 Frontend (React / Vite)
-Open a new terminal and navigate to the frontend folder:
+🌐 Frontend (React + Vite)
+
+# 1. Navigate to the frontend directory
 cd TripleM-main/frontend
-Install frontend dependencies:
+
+# 2. Install dependencies
 npm install
-Start the development server:
+
+# 3. Start the development server
 npm run dev
-The app will typically be available at http://localhost:5173 or as shown in your terminal.
+The frontend will typically be available at http://localhost:5173 or as shown in your terminal.
